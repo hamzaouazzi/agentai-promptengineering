@@ -1,0 +1,10 @@
+[project]
+name = "agentai-python"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "ipykernel>=6.31.0",
+    "tiktoken>=0.12.0",
+]
