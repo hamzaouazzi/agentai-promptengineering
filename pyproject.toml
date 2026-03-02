@@ -6,6 +6,8 @@ readme = "README.md"
 requires-python = ">=3.9"
 dependencies = [
     "ipykernel>=6.31.0",
+    "langchain-ollama>=0.3.10",
+    "langchain-openai>=0.3.35",
     "openai>=2.24.0",
     "tiktoken>=0.12.0",
 ]
